@@ -24,3 +24,7 @@ window.addEventListener("load",Start);
 
 
 //window.addEventListener("load",())
+
+//git init
+//git add .
+//git commit -m "First commit"
